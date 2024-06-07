@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/dapdelivery/tap-gitops-06-06-2024-22-35-32-469422658.git
+  ref: origin/master
+  sub_path: clusters/auto-shrpd-tkgs-cyhnzxatvl-3/cluster-config
+tap_package_repository:
+  oci_repository: tap-sm-docker-dev-local.dmz.packages.broadcom.com/1.8.4-rc.7/tanzu-application-platform/tap-packages
